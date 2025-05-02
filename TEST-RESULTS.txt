@@ -1,0 +1,25 @@
+Test Results:
+
+1.Multiplication of decimal numbers
+Example: 0.2*0.2
+Expected result: 0.04
+Actual result: 0.040000003
+
+2.Dividing decimal numbers
+Example: 0.12/0.6
+Expected results: 0.2
+Actual results: 0.19999999
+
+3.Subtraction of decimal numbers
+Example: 0.59-0.60
+Expected results:-0.01
+Actual results: -0.01000005
+
+4.Press enter key 2 times
+Expected result: ERROR message should be displayed
+Actual result: Index 0 out of bounds for length 0 exception is displayed
+
+5.'exit' expression is case sensitive:
+Example: Enter: 'Exit' or 'EXIT'
+Expected: Application should be stopped
+Actual results: ERROR message is displayed
